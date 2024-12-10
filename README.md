@@ -14,7 +14,7 @@
 
 - **English**:
   1. Open the app using this link:  
-     [quiz-app-blush-seven-64.vercel.app](quiz-app-blush-seven-64.vercel.app)
+     [https://quiz-app-blush-seven-64.vercel.app](https://quiz-app-blush-seven-64.vercel.app)
   2. Configure your quiz settings (number of questions, category, difficulty).
   3. Click "Start" to begin the quiz.
   4. Answer each question within the time limit.
@@ -22,7 +22,7 @@
 
 - **Türkçe**:
   1. Uygulamayı şu link üzerinden açın:  
-     [quiz-app-blush-seven-64.vercel.app](quiz-app-blush-seven-64.vercel.app)
+     [https://quiz-app-blush-seven-64.vercel.app](https://quiz-app-blush-seven-64.vercel.app)
   2. Quiz ayarlarınızı yapılandırın (soru sayısı, kategori, zorluk).
   3. "Başla" butonuna tıklayarak quiz'e başlayın.
   4. Her soruyu zaman sınırı içinde cevaplayın.
