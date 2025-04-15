@@ -2,7 +2,6 @@ import { useSelector } from 'react-redux';
 import { Route, Routes, Navigate } from 'react-router-dom';
 import Welcome from './Welcome'
 import Quiz from './Quiz'
-import Scores from './Scores'
 
 // Özel Route Bileşeni
 
@@ -36,7 +35,7 @@ const AppRoutes = () => {
                     </CheckNavigationGuard>
                 } 
             />
-            <Route path="/scores" element={<Scores />} />
+
         </Routes>
     );
 };
