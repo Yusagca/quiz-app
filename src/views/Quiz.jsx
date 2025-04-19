@@ -6,7 +6,7 @@ import { FaQuestion, FaListAlt, FaTachometerAlt, FaRegSmileBeam, FaCogs } from "
 
 const Quiz = () => {
     const nickname = useSelector((state) => state.appVars.nickname)
-    const questionTimeLimit = 10;
+    const questionTimeLimit = 30;
     const [questionNumber, setQuestionNumber] = useState(10)
     const [category, setCategory] = useState("any")
     const [difficulty, setDifficulty] = useState("any")
